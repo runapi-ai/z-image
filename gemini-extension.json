@@ -1,0 +1,10 @@
+{
+  "name": "z-image",
+  "version": "0.2.1",
+  "description": "RunAPI Z-Image skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/z-image/SKILL.md"
+    }
+  ]
+}
