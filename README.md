@@ -16,9 +16,6 @@
 
 [![skills.sh](https://www.skills.sh/b/runapi-ai/z-image)](https://www.skills.sh/runapi-ai/z-image/z-image)
 [![ClawHub](https://img.shields.io/badge/ClawHub-runapi--z--image-111827)](https://clawhub.ai/runapi-ai/runapi-z-image)
-[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/z-image)
-[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
-[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
 [![License](https://img.shields.io/github/license/runapi-ai/z-image)](https://github.com/runapi-ai/z-image/blob/main/LICENSE)
 
 </div>
