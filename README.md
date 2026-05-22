@@ -1,6 +1,23 @@
-# Z-Image API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/z-image">
+    <h3 align="center">Z-Image API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Z-Image fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/z-image.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/z-image"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/z-image-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/z-image)](https://skills.sh/runapi-ai/z-image)
+
+</div>
+<br/>
 
 Generate images with Z-Image text-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Z-Image through RunAPI.
 
