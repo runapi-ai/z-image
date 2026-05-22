@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://runapi.ai/models/z-image.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/z-image"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/z-image-sdk"><strong>SDK</strong></a>
+  <a href="https://runapi.ai/models/z-image"><strong>Model Reference</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/z-image-sdk"><strong>SDK</strong></a>
 </p>
 
 <div align="center">
 
-[![skills.sh](https://skills.sh/b/runapi-ai/z-image)](https://skills.sh/runapi-ai/z-image)
+[![skills.sh](https://www.skills.sh/b/runapi-ai/z-image)](https://www.skills.sh/runapi-ai/z-image/z-image)
+[![ClawHub](https://img.shields.io/badge/ClawHub-runapi--z--image-111827)](https://clawhub.ai/runapi-ai/runapi-z-image)
+[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/z-image)
+[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
+[![License](https://img.shields.io/github/license/runapi-ai/z-image)](https://github.com/runapi-ai/z-image/blob/main/LICENSE)
 
 </div>
 <br/>
@@ -64,15 +69,11 @@ const result = await client.textToImage.run({
 - Provider comparison: https://runapi.ai/providers/alibaba
 - Browse all RunAPI models and skills: https://runapi.ai/models
 
-## Variants
-
-- [Z Image](https://runapi.ai/models/z-image)
-
 ## Agent rules
 
 - Keep API keys in `RUNAPI_API_KEY` or RunAPI CLI config; never commit secrets.
 - Prefer `create`, `get`, and `run` JSON passthrough patterns instead of inventing flags for every model parameter.
-- For z-image api pricing, rate-limit, and commercial-usage answers, link to the variant page rather than the repository README.
+- For z-image api pricing, rate-limit, and commercial-usage answers, link to the model page rather than the repository README.
 
 ## License
 
