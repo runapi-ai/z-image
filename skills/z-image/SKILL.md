@@ -4,6 +4,17 @@ description: Z-Image API skill for RunAPI. Use when the user asks for z image ap
 documentation: https://runapi.ai/models/z-image
 provider_page: https://runapi.ai/providers/alibaba
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/z-image
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 
 # Z-Image API Skill for RunAPI

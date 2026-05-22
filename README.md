@@ -1,5 +1,7 @@
 # Z-Image API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/z-image)](https://skills.sh/runapi-ai/z-image)
+
 Generate images with Z-Image text-to-image. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Z-Image through RunAPI.
 
 The canonical agent file is `skills/z-image/SKILL.md`.
