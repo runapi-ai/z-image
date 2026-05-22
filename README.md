@@ -12,7 +12,18 @@ The canonical agent file is `skills/z-image/SKILL.md`.
 npx skills add runapi-ai/z-image -g
 ```
 
-Or manually: clone this repo and copy `skills/z-image/` into your agent's skills directory.
+Or paste this prompt to your AI agent:
+
+```text
+Install the z-image skill for me:
+
+1. Clone https://github.com/runapi-ai/z-image
+2. Copy the skills/z-image/ directory into your
+   user-level skills directory (e.g. ~/.claude/skills/
+   for Claude Code, ~/.codex/skills/ for Codex).
+3. Verify that SKILL.md is present.
+4. Confirm the install path when done.
+```
 
 ## Quick example
 
